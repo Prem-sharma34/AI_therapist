@@ -1,7 +1,7 @@
-# fastapi"[standard]"
+fastapi[standard]
+uvicorn
 openai
 pydub
-python-dotenv
-python-multipart
+dotenv
 sarvamai
 speechrecognition
