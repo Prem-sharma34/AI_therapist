@@ -14,7 +14,7 @@ const reviews = [
     tone: "from-emerald-400 to-teal-500",
   },
   {
-    name: "Priya",
+    name: "Anuj",
     text: "Loved the voice interaction, felt like a real therapist.",
     tone: "from-indigo-500 to-purple-500",
   },
