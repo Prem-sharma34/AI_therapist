@@ -10,7 +10,8 @@ CRISIS_KEYWORDS = [
     "i'm going to do something really bad",
     "i want to attack someone.",
     "suicide",
-    "can't take it anymore"
+    "can't take it anymore",
+    "going to do something bad"
 ]
 
 def check_crisis(user_text: str) -> dict:
