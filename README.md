@@ -88,7 +88,7 @@ CORS_ALLOW_ORIGINS=http://localhost:5173
 SARVAM_API_KEY=your_sarvam_api_key_here
 HF_BASE_URL=https://router.huggingface.co/v1
 HF_TOKEN=your_huggingface_token_here
-HF_MODEL=gpt-oss-20b
+HF_MODEL=Qwen3-Next
 ```
 ## 🚨 Disclaimers
 
