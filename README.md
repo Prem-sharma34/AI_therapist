@@ -51,7 +51,7 @@ It is **not professional therapy**, but rather a **safe, private, and reflective
 
 - **Frontend:** React (Vite) + Tailwind CSS  
 - **Backend:** FastAPI  
-- **Model:** [GPT-OSS 20B](https://huggingface.co/), accessed via Hugging Face API  
+- **Model:** [Qwen3-next 80B](https://huggingface.co/), accessed via Hugging Face API  
 - **Voice:** Sarvam AI TTS (for Indian languages)  
 - **Session Handling:** Browser session storage (no persistent storage)  
 
