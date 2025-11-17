@@ -102,7 +102,7 @@ HF_MODEL=Qwen3-Next
   Only anonymous mode works. This was intentional to prioritize privacy-first use.  
 
 - **Latency risk**  
-  GPT-OSS 20B can be slow on Hugging Face. No smaller fallback model yet.  
+  QWEN3-NEXT 80B can be slow on Hugging Face. No smaller fallback model yet.  
   
 - **No persistent memory**  
   We deliberately avoid storing user data, even if it means sacrificing long-term tracking.  
