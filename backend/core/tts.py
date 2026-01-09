@@ -20,7 +20,7 @@ def synthesize_speech(text: str) -> str | None:
     try:
         tts_response = sarvam_client.text_to_speech.convert(
             text=text,
-            target_language_code="hi-IN",
+            target_language_code="hi-en",
             speaker="manisha",
             pitch=0.3,
             pace=0.9,
